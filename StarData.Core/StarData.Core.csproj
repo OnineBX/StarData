@@ -4,4 +4,16 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Entities\Base\" />
+    <None Remove="Repositories\" />
+    <None Remove="Error\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Entities\Base\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Error\" />
+  </ItemGroup>
 </Project>

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarData.Core.Tests", "Star
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarData.Infrastructure.Tests", "StarData.Infrastructure.Tests\StarData.Infrastructure.Tests.csproj", "{82A190A3-C567-4CE5-A52D-CD10D0368BC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartData.Migrations", "StartData.Migrations\StartData.Migrations.csproj", "{E118E9A8-5CB6-4A32-81A3-CD514F1E00CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{82A190A3-C567-4CE5-A52D-CD10D0368BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82A190A3-C567-4CE5-A52D-CD10D0368BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82A190A3-C567-4CE5-A52D-CD10D0368BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E118E9A8-5CB6-4A32-81A3-CD514F1E00CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E118E9A8-5CB6-4A32-81A3-CD514F1E00CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E118E9A8-5CB6-4A32-81A3-CD514F1E00CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E118E9A8-5CB6-4A32-81A3-CD514F1E00CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,5 +69,6 @@ Global
 		{F2A06B30-8CB3-4291-9F35-8DC9E158A57D} = {A0433966-E951-4968-9806-8FB209B8949D}
 		{7785AE48-61BF-44C1-8712-6DE1CB040EE8} = {A0433966-E951-4968-9806-8FB209B8949D}
 		{82A190A3-C567-4CE5-A52D-CD10D0368BC7} = {A0433966-E951-4968-9806-8FB209B8949D}
+		{E118E9A8-5CB6-4A32-81A3-CD514F1E00CC} = {57CE5884-6206-4FB7-8751-7E778D13F375}
 	EndGlobalSection
 EndGlobal

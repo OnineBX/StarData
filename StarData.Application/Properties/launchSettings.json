@@ -12,7 +12,7 @@
     "StarData.Application": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "player",
       "applicationUrl": "https://localhost:51200;http://localhost:16585",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
